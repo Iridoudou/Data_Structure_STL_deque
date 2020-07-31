@@ -1,0 +1,62 @@
+﻿  test5.cpp
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(632,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(621,1): warning C4297: “sjtu::deque<T>::const_iterator::operator ->”: 假定函数不引发异常，但确实发生了
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(621,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(619): message : 在编译 类 模板 成员函数“T *sjtu::deque<T>::const_iterator::operator ->(void) noexcept const”时
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(368): message : 查看对正在编译的函数 模板 实例化“T *sjtu::deque<T>::const_iterator::operator ->(void) noexcept const”的引用
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(78): message : 查看对正在编译的 类 模板 实例化“sjtu::deque<T>::const_iterator”的引用
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(376,1): warning C4297: “sjtu::deque<T>::iterator::operator ->”: 假定函数不引发异常，但确实发生了
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(376,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(374): message : 在编译 类 模板 成员函数“T *sjtu::deque<T>::iterator::operator ->(void) noexcept const”时
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(260): message : 查看对正在编译的函数 模板 实例化“T *sjtu::deque<T>::iterator::operator ->(void) noexcept const”的引用
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(74): message : 查看对正在编译的 类 模板 实例化“sjtu::deque<T>::iterator”的引用
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(850,32): warning C4018: “>=”: 有符号/无符号不匹配
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(849): message : 在编译 类 模板 成员函数“T &sjtu::deque<T>::operator [](const size_t &)”时
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(193): message : 查看对正在编译的函数 模板 实例化“T &sjtu::deque<T>::operator [](const size_t &)”的引用
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(70): message : 查看对正在编译的 类 模板 实例化“sjtu::deque<T>”的引用
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(852,21): warning C4018: “<=”: 有符号/无符号不匹配
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(860,48): warning C4018: “>=”: 有符号/无符号不匹配
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(726,32): warning C4018: “>=”: 有符号/无符号不匹配
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(725): message : 在编译 类 模板 成员函数“T &sjtu::deque<T>::at(const size_t &)”时
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\test5.cpp(178): message : 查看对正在编译的函数 模板 实例化“T &sjtu::deque<T>::at(const size_t &)”的引用
+          with
+          [
+              T=T
+          ]
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(728,21): warning C4018: “<=”: 有符号/无符号不匹配
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(736,48): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(785): warning C4715: “sjtu::deque<T>::at”: 不是所有的控件路径都返回值
+D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\deque\deque.hpp(909): warning C4715: “sjtu::deque<T>::operator[]”: 不是所有的控件路径都返回值
+  All 402 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  deque.vcxproj -> D:\SJTU\正版软件\Visual Studio\数据结构大作业\deque\Release\deque.exe
